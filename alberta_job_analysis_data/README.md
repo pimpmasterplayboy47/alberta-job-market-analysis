@@ -2,7 +2,7 @@
 
 This folder contains all CSV datasets generated during the Alberta job market analysis using Python/pandas and Statistics Canada data.
 
-## 📋 **File Descriptions**
+##  **File Descriptions**
 
 ### 1. `alberta_best_jobs_ranking.csv`
 **Purpose:** Rankings of Alberta occupations by overall job quality
@@ -98,26 +98,26 @@ plt.tight_layout()
 plt.show()
 ```
 
-## 📅 **Data Currency**
+##  **Data Currency**
 - **Source Data Period:** January 2015 to July 2023 (quarterly)
 - **Analysis Date:** September 19, 2026
 - **Geographic Scope:** Alberta, Canada only
 
-## 📊 **Related Visualization Files**
+##  **Related Visualization Files**
 PNG visualization files are stored in the parent directory (`C:\Users\micha\`):
 - Wage trend plots
 - Occupation comparison charts
 - Job quality dashboards
 - Detailed healthcare/tech analysis visualizations
 
-## ⚠️ **Important Notes**
+##  **Important Notes**
 1. **Data Source:** All data originates from Statistics Canada's Job Vacancy and Wage Survey (JVWS)
 2. **Limitation:** The primary metric available is "Average offered hourly wage" - other job quality factors (benefits, job security, satisfaction) are not captured in this dataset
 3. **Aggregation Level:** Data is presented at the 1-digit NOC level (broad occupation categories)
 4. **Frequency:** Quarterly data points
 5. **Geographic Coverage:** Alberta province only
 
-## 📞 **For Further Analysis**
+##  **For Further Analysis**
 - To explore additional metrics, consider integrating with:
   - Statistics Canada Table 14-10-0326-02 (Job vacancy rate by occupation)
   - Employment data from Table 14-10-0203-01
