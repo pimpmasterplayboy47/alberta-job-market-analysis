@@ -36,8 +36,6 @@ print(df_filtered[['REF_DATE', 'VALUE']].head())
 df_filtered['REF_DATE'] = pd.to_datetime(df_filtered['REF_DATE'])
 df_filtered = df_filtered.sort_values('REF_DATE')
 
-plt.style.use("dark_background") #dark background so eyes no hurt
-
 # Plot average offered hourly wage over time
 plt.figure(figsize=(10, 6))
 plt.plot(df_filtered['REF_DATE'], df_filtered['VALUE'], marker='o')
