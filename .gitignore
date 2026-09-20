@@ -1,1 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
 
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Generated analysis outputs
+alberta_avg_wage_trend.png
+alberta_wage_by_occupation.png
+alberta_best_jobs_analysis.png
+alberta_occupation_comparison.png
