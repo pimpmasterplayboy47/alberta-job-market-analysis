@@ -75,3 +75,5 @@ for col in pivot.columns:
 # Save processed pivot table
 pivot.to_csv('alberta_wage_by_occupation_pivot.csv')
 print("\nSaved pivot table to alberta_wage_by_occupation_pivot.csv")
+
+plt.show()
