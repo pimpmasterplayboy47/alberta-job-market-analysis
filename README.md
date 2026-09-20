@@ -1,13 +1,6 @@
+Alberta Job Market Analysis
 
-# alberta-job-market-analysis
-An analysis of the Alberta job market using pandas.
-
-
-To use it:
-1. Download the Alberta job vacancy dataset.
-2. Rename it to `alberta_job_vacancies.csv`.
-3. Place it in the project directory.
-4. Run `python main.py`.
+A Python data-analysis project exploring job vacancies, wages, and job quality across occupations in Alberta using Statistics Canada data.
 
 Using matplotlib I was able to generate the following graphs which are able to sum up the general conclusion drawn from the data:
 
