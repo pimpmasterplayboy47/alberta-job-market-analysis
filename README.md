@@ -2,6 +2,13 @@
 # alberta-job-market-analysis
 An analysis of the Alberta job market using pandas.
 
+
+To use simply:
+1. Download the Alberta job vacancy dataset.
+2. Rename it to `alberta_job_vacancies.csv`.
+3. Place it in the project directory.
+4. Run `python main.py`.
+
 Using matplotlib I was able to generate the following graphs which are able to sum up the general conclusion drawn from the data:
 
 <img width="1000" height="600" alt="alberta_avg_wage_trend" src="https://github.com/user-attachments/assets/073b6a79-dff3-47ed-8969-3d4d58a1fe1d" />
@@ -15,9 +22,3 @@ Using matplotlib I was able to generate the following graphs which are able to s
 <img width="3565" height="2402" alt="alberta_Health_occupations_3_detailed_analysis" src="https://github.com/user-attachments/assets/0a8158a7-5f7e-4a60-af59-97a596d5c36f" />
 
 <img width="4819" height="3563" alt="alberta_occupation_comparison" src="https://github.com/user-attachments/assets/24ec6f36-b28e-4d3b-9ad0-90b9358577ce" />
-
-To use simply:
-1. Download the Alberta job vacancy dataset.
-2. Rename it to `alberta_job_vacancies.csv`.
-3. Place it in the project directory.
-4. Run `python main.py`.
