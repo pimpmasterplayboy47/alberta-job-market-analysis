@@ -47,3 +47,5 @@ print(df_filtered[['REF_DATE', 'VALUE', 'YoY_change']].tail())
 # Save processed data
 df_filtered.to_csv('alberta_job_vacancies_processed.csv', index=False)
 print("\nProcessed data saved to alberta_job_vacancies_processed.csv")
+
+plt.show()
