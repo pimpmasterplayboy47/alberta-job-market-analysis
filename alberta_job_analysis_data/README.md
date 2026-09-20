@@ -65,7 +65,7 @@ This folder contains all CSV datasets generated during the Alberta job market an
 - REF_DATE (index column)
 - Occupation groups as columns: Management, Business/Finance, Sciences, Health, Education/Law, Art/Culture, Sales/Service, Trades/Transport, Natural Resources, Manufacturing, Unclassified
 
-## 🔧 **Usage Examples**
+##  **Usage Examples**
 
 ### **Basic Analysis in Python:**
 ```python
