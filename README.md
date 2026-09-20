@@ -81,14 +81,3 @@ These files are generated when the program runs and are excluded from version co
 The goal of this project is to practice data cleaning, statistical analysis, visualization, and interpretation using real-world Canadian labour-market data.
 
 It also demonstrates how Python can be used to transform a large dataset into useful information about Alberta's job market.
-
-## Future Improvements
-
-Possible future improvements include:
-
-* Adding additional labour-market indicators
-* Improving the job-quality scoring methodology
-* Adding more occupations to the detailed comparison
-* Creating an interactive dashboard
-* Automating data updates when new Statistics Canada data becomes available
-* Organizing generated outputs into a dedicated `outputs/` directory
