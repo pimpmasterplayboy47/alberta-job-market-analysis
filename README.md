@@ -3,7 +3,7 @@
 An analysis of the Alberta job market using pandas.
 
 
-To use it simply:
+To use it:
 1. Download the Alberta job vacancy dataset.
 2. Rename it to `alberta_job_vacancies.csv`.
 3. Place it in the project directory.
